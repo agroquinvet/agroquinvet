@@ -36,4 +36,4 @@
 
 ![Maryangelin´s GitHub stats](https://github-readme-stats.vercel.app/api?username=agroquinvet&show_icons=true&theme=radical)
 
-[![Maryangelin](https://github-readme-stats.vercel.app/api/top-langs/?username=agroquinvet&Compact_layout=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Maryangelin](https://github-readme-stats.vercel.app/api/top-langs/?username=agroquinvet&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
